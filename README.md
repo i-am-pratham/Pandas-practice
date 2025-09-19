@@ -79,4 +79,4 @@ My learning journey was significantly boosted by these amazing resources:
 
 ---
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile-url/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin](https://www.linkedin.com/in/prathamesh-sarode2004/))]([https://www.linkedin.com/in/your-linkedin-profile-url/](https://www.linkedin.com/in/prathamesh-sarode2004/))
